@@ -18,11 +18,16 @@
   - can use it sparingly to start (your JS is probably fine, just add some typings or `any`)
   - implicit and explicit typing
 
+# Additional Getting Started Resources
+
+The Official TypeScript Documentation
 [TypeScript Docs / Handbook](https://www.typescriptlang.org/docs)
 
-This is a pretty great resource put together by some benevolent dev:
-
+Another Great Getting Introductory Resource
 [TypeScript Deep Dive by @basarat](https://basarat.gitbooks.io/typescript/)
+
+Using TypeScript with React using Create React App
+https://create-react-app.dev/docs/adding-typescript/
 
 # Disadvantages
 
