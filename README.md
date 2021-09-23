@@ -110,18 +110,18 @@ let myVariable: type = "my value";
 
 | Basic Types | <= according to the TS Docs 🎉                                                        |
 | :---------: | ------------------------------------------------------------------------------------- |
-|   String    | Your run of the mill string type                                                      |
-|   Number    | Can be used with decimal integers and floats as well as hex, octal and binary numbers |
-|   Boolean   | our old friends `true` and `false`                                                    |
-|     Any     | oh my! you're telling me I don't actually have to plan ahead?                         |
-|    Array    | lets add primitive typings to arrays (syntax may vary!)                               |
+|   string    | Your run of the mill string type                                                      |
+|   number    | Can be used with decimal integers and floats as well as hex, octal and binary numbers |
+|   boolean   | our old friends `true` and `false`                                                    |
+|     any     | oh my! you're telling me I don't actually have to plan ahead?                         |
+|    array    | lets add primitive typings to arrays (syntax may vary!)                               |
 |    void     | used for functions that do not return a value                                         |
 |    null     | `null`, yup                                                                           |
 |  undefined  | `undefined`, that too                                                                 |
-|   Object    | anything that is not `number`, `string`, `boolean`, `null`, or `undefined`            |
+|   object    | anything that is not `number`, `string`, `boolean`, `null`, or `undefined`            |
 |    never    | represents the type of values that never occur                                        |
-|    Tuple    | enforced typings on a specified number elements                                       |
-|    Enum     | Enforce a set of values -- we can use custom `Type`s in many cases                    |
+|    tuple    | enforced typings on a specified number elements                                       |
+|    enum     | Enforce a set of values -- we can use custom `Type`s in many cases                    |
 
 ### `string`
 
